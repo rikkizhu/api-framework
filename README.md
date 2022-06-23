@@ -23,6 +23,7 @@
     - 并发测试
     - JSON Schema 自动校验
     - Launcer
+    - Charles本地代理
     
 
 ## 接口测试框架优化点
